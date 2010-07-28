@@ -18,7 +18,6 @@ Gem::Specification.new do |s|
   s.files = [
     "CHANGELOG.rdoc",
      "Gemfile",
-     "Gemfile.lock",
      "MIT-LICENSE",
      "README.rdoc",
      "Rakefile",
